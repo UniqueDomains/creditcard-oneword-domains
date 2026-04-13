@@ -78,7 +78,7 @@ print(df.head())
 | zero.creditcard     | premium   | $9.99     | $236.99       | 112            | 53     | 4      | name.com          |
 | law.creditcard      | available | $168.98   | —             | 82             | 46     | 3      | namecheap         |
 | business.creditcard | resell    | —         | —             | 100            | 53     | 8      | Porkbun LLC       |
-| fast.creditcard     | premium   | $250      | $250          | 82             | 53     | 4      | name.com          |
+| fast.creditcard     | premium   | $250      | $250          | 82             | 52     | 4      | name.com          |
 | genius.creditcard   | available | $9.99     | $236.99       | 98             | 45     | 6      | name.com          |
 | bot.creditcard      | resell    | —         | —             | 98             | 53     | 3      | Dynadot Inc       |
 | best.creditcard     | premium   | $250      | —             | 82             | 52     | 4      | name.com          |
