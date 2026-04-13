@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .creditcard one-word domains from 
 
 **Public extract:** 9,757 rows · **Live catalog:** 9,757 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/creditcard`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| alpha.creditcard    | available | $9.99     | $236.99       | 90             | 54     | 5      | name.com          |
+| alpha.creditcard    | available | $9.99     | $236.99       | 90             | 53     | 5      | name.com          |
 | get.creditcard      | resell    | —         | —             | 88             | 69     | 3      | Sav.com, LLC - 25 |
 | the.creditcard      | premium   | $250      | —             | 88             | 58     | 3      | name.com          |
 | game.creditcard     | available | $9.99     | $236.99       | 120            | 50     | 4      | name.com          |
@@ -81,7 +81,7 @@ print(df.head())
 | fast.creditcard     | premium   | $250      | $250          | 82             | 53     | 4      | name.com          |
 | genius.creditcard   | available | $9.99     | $236.99       | 98             | 45     | 6      | name.com          |
 | bot.creditcard      | resell    | —         | —             | 98             | 53     | 3      | Dynadot Inc       |
-| best.creditcard     | premium   | $250      | —             | 82             | 53     | 4      | name.com          |
+| best.creditcard     | premium   | $250      | —             | 82             | 52     | 4      | name.com          |
 | creative.creditcard | available | $9.99     | $236.99       | 92             | 45     | 8      | name.com          |
 | digital.creditcard  | resell    | —         | —             | 100            | 50     | 7      | Sav.com, LLC - 46 |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
