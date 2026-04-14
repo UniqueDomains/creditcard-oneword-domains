@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .creditcard one-word domains from 
 
 **Public extract:** 9,757 rows · **Live catalog:** 9,757 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/creditcard`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | game.creditcard     | available | $9.99     | $236.99       | 120            | 50     | 4      | name.com          |
 | home.creditcard     | resell    | —         | —             | 100            | 62     | 4      | Dynadot Inc       |
 | ace.creditcard      | premium   | $250      | $250          | 88             | 57     | 3      | name.com          |
-| real.creditcard     | available | $168.98   | —             | 78             | 49     | 4      | namecheap         |
+| real.creditcard     | available | $168.98   | —             | 78             | 48     | 4      | namecheap         |
 | data.creditcard     | resell    | —         | —             | 70             | 56     | 4      | Porkbun LLC       |
 | live.creditcard     | premium   | $250      | $250          | 108            | 56     | 4      | name.com          |
 | snap.creditcard     | available | $9.99     | $236.99       | 90             | 46     | 4      | name.com          |
@@ -83,7 +83,7 @@ print(df.head())
 | bot.creditcard      | resell    | —         | —             | 98             | 53     | 3      | Dynadot Inc       |
 | best.creditcard     | premium   | $250      | —             | 82             | 52     | 4      | name.com          |
 | creative.creditcard | available | $9.99     | $236.99       | 92             | 45     | 8      | name.com          |
-| digital.creditcard  | resell    | —         | —             | 100            | 50     | 7      | Sav.com, LLC - 46 |
+| digital.creditcard  | resell    | —         | —             | 100            | 49     | 7      | Sav.com, LLC - 46 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
