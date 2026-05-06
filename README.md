@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .creditcard one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,724 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,724 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,724 domains · **Median ask:** $27.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/creditcard`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| useit.creditcard        | available | $9.99     | —             | 94             | 7      | 6      | name.com     |
+| playin.creditcard       | available | $9.99     | —             | 80             | 10     | 7      | name.com     |
+| playon.creditcard       | available | $9.99     | —             | 80             | 14     | 7      | name.com     |
 | robots.creditcard       | available | $9.99     | —             | 62             | 47     | 6      | name.com     |
 | payments.creditcard     | resell    | —         | —             | 58             | 33     | 8      | Sav.com, LLC |
 | SanDiego.creditcard     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo     |
@@ -81,9 +84,6 @@ print(df.head())
 | spaces.creditcard       | available | $9.99     | —             | 54             | 30     | 6      | name.com     |
 | heroes.creditcard       | available | $9.99     | —             | 68             | 29     | 6      | name.com     |
 | commonground.creditcard | available | $9.99     | —             | 74             | 28     | 13     | name.com     |
-| brands.creditcard       | available | $9.99     | —             | 62             | 28     | 6      | name.com     |
-| pages.creditcard        | available | $9.99     | —             | 52             | 28     | 5      | name.com     |
-| bees.creditcard         | available | $9.99     | —             | 54             | 27     | 4      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,724 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,724 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .creditcard domains. The names range from broad terms such as homes.creditcard and ladies.creditcard to more unusual options like Acup.creditcard and barup.creditcard. For founders, the main question is whether the word stays credible and memorable when paired with .creditcard. For investors, the key issue is whether the extension limits buyer depth even when the ask looks low. With a median ask of 27.30, price may look accessible, but extension fit matters more than raw cost. Favor words that read naturally with .creditcard, avoid awkward combinations, and check whether the term could raise trademark concerns.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results are one-word names on the .creditcard extension
+- Median ask is 27.30 across 12,724 listed domains
+- Best picks read clearly with a finance-specific extension
+- Watch for weak fit, narrow demand, and trademark overlap
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
