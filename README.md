@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .creditcard one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,721 domains · **Median ask:** $27.30 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/creditcard`  
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | shortcuts.creditcard    | available | $9.99     | —             | 48             | 41     | 10     | name.com     |
 | reports.creditcard      | premium   | $250      | —             | 58             | 24     | 7      | name.com     |
 | prompts.creditcard      | available | $9.99     | —             | 54             | 39     | 7      | name.com     |
-| LongBeach.creditcard    | premium   | $280      | $280          | 62             | 11     | 10     | namecheap    |
+| LongBeach.creditcard    | premium   | $280      | $280          | 62             | 12     | 10     | namecheap    |
 | stories.creditcard      | available | $9.99     | —             | 58             | 36     | 7      | name.com     |
 | aliens.creditcard       | available | $9.99     | —             | 56             | 35     | 6      | name.com     |
 | tickets.creditcard      | available | $9.99     | —             | 64             | 34     | 7      | name.com     |
 | teams.creditcard        | available | $9.99     | —             | 62             | 32     | 5      | name.com     |
 | maps.creditcard         | available | $9.99     | —             | 56             | 31     | 4      | name.com     |
 | solutions.creditcard    | available | $9.99     | —             | 56             | 31     | 9      | name.com     |
-| inspiration.creditcard  | available | $9.99     | —             | 88             | 30     | 11     | name.com     |
 | spaces.creditcard       | available | $9.99     | —             | 54             | 30     | 6      | name.com     |
 | heroes.creditcard       | available | $9.99     | —             | 68             | 29     | 6      | name.com     |
 | commonground.creditcard | available | $9.99     | —             | 74             | 28     | 13     | name.com     |
+| brands.creditcard       | available | $9.99     | —             | 62             | 28     | 6      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
