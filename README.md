@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .creditcard one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,721 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,721 domains · **Median ask:** $27.30 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,721 domains · **Median ask:** $20.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/creditcard`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/creditcard`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CREDITCARD one-word d
 
 ### Files
 
-- `creditcard.csv` — public CSV extract (1,000 rows)
-- `creditcard.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `creditcard.csv`, public CSV extract (1,000 rows)
+- `creditcard.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| useit.creditcard        | available | $9.99     | —             | 94             | 7      | 6      | name.com     |
-| playin.creditcard       | available | $9.99     | —             | 80             | 10     | 7      | name.com     |
-| playon.creditcard       | available | $9.99     | —             | 80             | 14     | 7      | name.com     |
-| robots.creditcard       | available | $9.99     | —             | 62             | 47     | 6      | name.com     |
-| payments.creditcard     | resell    | —         | —             | 58             | 33     | 8      | Sav.com, LLC |
-| SanDiego.creditcard     | premium   | $242      | $242          | 74             | 29     | 9      | namesilo     |
-| shortcuts.creditcard    | available | $9.99     | —             | 48             | 41     | 10     | name.com     |
-| reports.creditcard      | premium   | $250      | —             | 58             | 24     | 7      | name.com     |
-| prompts.creditcard      | available | $9.99     | —             | 54             | 39     | 7      | name.com     |
-| LongBeach.creditcard    | premium   | $280      | $280          | 62             | 12     | 10     | namecheap    |
-| stories.creditcard      | available | $9.99     | —             | 58             | 36     | 7      | name.com     |
-| aliens.creditcard       | available | $9.99     | —             | 56             | 35     | 6      | name.com     |
-| tickets.creditcard      | available | $9.99     | —             | 64             | 34     | 7      | name.com     |
-| teams.creditcard        | available | $9.99     | —             | 62             | 32     | 5      | name.com     |
-| maps.creditcard         | available | $9.99     | —             | 56             | 31     | 4      | name.com     |
-| solutions.creditcard    | available | $9.99     | —             | 56             | 31     | 9      | name.com     |
-| spaces.creditcard       | available | $9.99     | —             | 54             | 30     | 6      | name.com     |
-| heroes.creditcard       | available | $9.99     | —             | 68             | 29     | 6      | name.com     |
-| commonground.creditcard | available | $9.99     | —             | 74             | 28     | 13     | name.com     |
-| brands.creditcard       | available | $9.99     | —             | 62             | 28     | 6      | name.com     |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| BJP.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
+| autonomous.creditcard | resell    | $9.99     | —             | high           | medium | 10     | Dynadot Inc  |
+| ace.creditcard        | premium   | $250      | $250          | high           | medium | 3      | name.com     |
+| boo.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| data.creditcard       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
+| tax.creditcard        | premium   | $242      | $242          | high           | medium | 3      | namesilo     |
+| bow.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| good.creditcard       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc  |
+| the.creditcard        | premium   | $250      | —             | high           | medium | 3      | name.com     |
+| bra.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
+| safe.creditcard       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC |
+| rich.creditcard       | premium   | $242      | $242          | high           | low    | 4      | namesilo     |
+| cap.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| premium.creditcard    | resell    | —         | —             | high           | low    | 7      | Porkbun LLC  |
+| about.creditcard      | premium   | $250      | $250          | high           | low    | 5      | name.com     |
+| con.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| business.creditcard   | resell    | —         | —             | high           | medium | 8      | Porkbun LLC  |
+| dream.creditcard      | premium   | $242      | $242          | high           | medium | 5      | namesilo     |
+| dye.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
+| security.creditcard   | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .creditcard domains. The names range from broad terms such as homes.creditcard and ladies.creditcard to more unusual options like Acup.creditcard and barup.creditcard. For founders, the main question is whether the word stays credible and memorable when paired with .creditcard. For investors, the key issue is whether the extension limits buyer depth even when the ask looks low. With a median ask of 27.30, price may look accessible, but extension fit matters more than raw cost. Favor words that read naturally with .creditcard, avoid awkward combinations, and check whether the term could raise trademark concerns.
+This selection covers 12,721 one-word .creditcard domain names spanning everyday phrases and finance-adjacent terms, from steerclear.creditcard to coffeewoman.creditcard. Most names carry a median asking price near $20, keeping entry cost low for a niche TLD tied directly to the credit and finance space. Because the names are short and phrase-like rather than generic, brandability and clarity vary more than price, so reading each name as a potential brand is the key evaluation step. Updated daily.
 
-- All results are one-word names on the .creditcard extension
-- Median ask is 27.30 across 12,724 listed domains
-- Best picks read clearly with a finance-specific extension
-- Watch for weak fit, narrow demand, and trademark overlap
+- 12,721 one-word .creditcard domains in this selection
+- Median ask near $20 across the list
+- Brandable terms like Snickers, makeit, lightup
+- Compare wording and renewal before choosing a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
