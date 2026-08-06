@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .creditcard one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,721 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,721 domains · **Median ask:** $20.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,721 domains · **Median ask:** $19.23 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/creditcard`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| BJP.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
+| ape.creditcard        | available | $9.99     | $236.99       | medium         | low    | 3      | name.com     |
 | autonomous.creditcard | resell    | $9.99     | —             | high           | medium | 10     | Dynadot Inc  |
 | ace.creditcard        | premium   | $250      | $250          | high           | medium | 3      | name.com     |
-| boo.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
-| data.creditcard       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC  |
-| tax.creditcard        | premium   | $242      | $242          | high           | medium | 3      | namesilo     |
-| bow.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| BJP.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
 | good.creditcard       | resell    | —         | —             | high           | medium | 4      | Dynadot Inc  |
-| the.creditcard        | premium   | $250      | —             | high           | medium | 3      | name.com     |
-| bra.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
+| tax.creditcard        | premium   | $242      | $242          | high           | medium | 3      | namesilo     |
+| boo.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
 | safe.creditcard       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC |
+| the.creditcard        | premium   | $250      | —             | high           | medium | 3      | name.com     |
+| bow.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| premium.creditcard    | resell    | —         | —             | high           | low    | 7      | Porkbun LLC  |
+| xxx.creditcard        | premium   | $854      | $854          | low            | medium | 3      | namesilo     |
+| bra.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
+| business.creditcard   | resell    | —         | —             | high           | medium | 8      | Porkbun LLC  |
 | rich.creditcard       | premium   | $242      | $242          | high           | low    | 4      | namesilo     |
 | cap.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
-| premium.creditcard    | resell    | —         | —             | high           | low    | 7      | Porkbun LLC  |
-| about.creditcard      | premium   | $250      | $250          | high           | low    | 5      | name.com     |
-| con.creditcard        | available | $9.99     | —             | high           | low    | 3      | name.com     |
-| business.creditcard   | resell    | —         | —             | high           | medium | 8      | Porkbun LLC  |
-| dream.creditcard      | premium   | $242      | $242          | high           | medium | 5      | namesilo     |
-| dye.creditcard        | available | $9.99     | —             | medium         | low    | 3      | name.com     |
 | security.creditcard   | resell    | —         | —             | high           | medium | 8      | Sav.com, LLC |
+| about.creditcard      | premium   | $250      | $250          | high           | low    | 5      | name.com     |
+| ccc.creditcard        | available | $9.99     | $236.99       | low            | medium | 3      | name.com     |
+| dream.creditcard      | premium   | $242      | $242          | high           | medium | 5      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 12,721 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CREDITCARD One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
