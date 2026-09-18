@@ -697,7 +697,7 @@ d041a937-dd8c-475c-97b3-8306c6f903a5,safehaven.creditcard,available,9.99,,high,l
 06af134f-5eda-4863-a470-1204ce6a214d,nominee.creditcard,available,9.99,,high,low,7,name.com,,,
 30cc5ac0-70a2-428c-acf7-9cb9ca9a0ad7,autonomous.creditcard,resell,9.99,,high,medium,10,Dynadot Inc,14/03/2026 00:25,14/03/2027 00:25,
 96e87e57-30d3-4390-94bc-a48c622a2a8d,teddybear.creditcard,available,9.99,,high,low,10,name.com,,,
-7e1e75e1-c52c-4c4c-8414-55bb75e2450e,signin.creditcard,available,9.99,,high,low,7,name.com,,,
+7e1e75e1-c52c-4c4c-8414-55bb75e2450e,signin.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,17/09/2026 03:42
 f0f697c7-fa01-47f7-b5c6-18f726914acd,toeachhisown.creditcard,available,9.99,,medium,low,15,name.com,,,
 52680b30-9237-4b84-b974-2f5dfcf56a63,binding.creditcard,available,9.99,,high,low,7,name.com,,,
 12dce2ff-8721-40d0-80ef-9d4f0865f3b0,shiftabout.creditcard,available,9.99,,low,low,11,name.com,,,
