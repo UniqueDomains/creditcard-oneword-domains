@@ -11,7 +11,7 @@ bfe432c7-597c-4f34-af06-09f9b9499f11,pleaseexplain.creditcard,available,9.99,,hi
 da88070b-b02c-4f40-bca3-4922e6e41952,electronic.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,08/09/2026 07:20
 aa0795eb-7668-4108-bfb7-b44d50e6edf8,remover.creditcard,available,9.99,,medium,low,7,name.com,,,
 89f6c412-73d7-4e2a-b06b-db614a323930,otherthan.creditcard,available,9.99,,medium,low,10,name.com,,,
-a0686567-7f47-4585-bd3a-774dca006d88,return.creditcard,available,156.98,168.98,medium,low,6,namecheap,,,14/09/2026 18:50
+a0686567-7f47-4585-bd3a-774dca006d88,return.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,19/09/2026 03:27
 8919ffd4-6177-4245-9b4d-86fc8960dbb9,corruption.creditcard,available,9.99,,medium,low,10,name.com,,,
 6154be25-c419-4c2f-9020-d570695ae760,verymuch.creditcard,available,9.99,,high,low,9,name.com,,,
 fed6f45a-adfd-43ad-b6ad-86280e3ac540,breakeven.creditcard,available,9.99,,high,low,10,name.com,,,
@@ -218,7 +218,6 @@ c6fb9131-3666-4909-9bca-6c2f800378ec,message.creditcard,available,144.99,144.99,
 d66b1492-1103-4e49-b583-d039181d0b6a,onthebubble.creditcard,available,9.99,,medium,low,13,name.com,,,
 581ba8ef-7a47-4c15-a3ae-8df98ac1f2e6,reflexively.creditcard,available,9.99,,low,low,11,name.com,,,
 2c309a0c-e8e1-428a-932e-73e9891a254b,holdoff.creditcard,available,9.99,,medium,low,8,name.com,,,
-52feb7af-9c78-471b-8a96-2a2c93e03d00,data.creditcard,resell,,,medium,medium,4,Porkbun LLC,30/08/2025 19:02,30/08/2027 19:02,08/09/2026 06:15
 1b11fa41-c19d-4086-9f28-91ed35416ff2,shopworn.creditcard,available,9.99,236.99,low,low,8,name.com,,,08/08/2026 11:06
 3c0e2e26-7823-4ad2-9024-7fbf5d0f80f2,clumsy.creditcard,available,9.99,,high,low,6,name.com,,,
 b51bad29-27f9-412c-baaf-ffbdb79dfa19,taketheknee.creditcard,available,9.99,,low,low,13,name.com,,,
@@ -513,7 +512,7 @@ e130d708-a0d0-4c2e-9211-34a90f16b60f,asterismal.creditcard,available,9.99,236.99
 225c3617-a002-4acd-9431-3b88116d65c3,auriform.creditcard,available,9.99,236.99,low,low,8,name.com,,,07/08/2026 17:57
 493a4f2e-cb26-4f26-8638-9e2b54a29c06,applied.creditcard,available,9.99,236.99,medium,low,7,name.com,,,06/08/2026 07:11
 3950ed97-ba10-4ace-9be3-164f379d125b,arching.creditcard,available,9.99,236.99,low,low,7,name.com,,,06/08/2026 14:39
-93c43887-6e2c-4637-8016-52464b5a86f6,business.creditcard,resell,,,high,medium,8,Porkbun LLC,29/08/2014 16:00,29/08/2026 16:00,
+93c43887-6e2c-4637-8016-52464b5a86f6,business.creditcard,resell,,,medium,low,8,Porkbun LLC,29/08/2014 16:00,29/08/2027 16:00,19/09/2026 02:33
 9807a0a0-6774-474a-a1df-2506215fde60,creating.creditcard,available,9.99,,high,low,8,name.com,,,
 9b831237-578e-4f5e-bac8-b78620045191,letter.creditcard,available,9.99,,high,low,6,name.com,,,
 a5d5f657-2186-4a73-805d-93fcea3dce0d,generalknowledge.creditcard,available,9.99,,high,low,17,name.com,,,
@@ -912,7 +911,7 @@ a49a2311-f279-445e-9c59-20ee93fd9b6e,secured.creditcard,premium,854,854,high,low
 d04d1f99-3330-4565-9850-5f601983c7ef,volatile.creditcard,available,9.99,,high,low,8,name.com,,,
 f1118bc9-813c-4283-8bbb-0e08730f606d,graywolf.creditcard,available,9.99,,high,low,9,name.com,,,
 e71bd1e7-10ec-44af-a11d-fae9a560879c,adorable.creditcard,available,9.99,236.99,high,low,8,name.com,,,
-bafd2864-ea4d-4bc3-88ea-7093fc3c56d4,technology.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,08/09/2026 02:51
+bafd2864-ea4d-4bc3-88ea-7093fc3c56d4,technology.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,19/09/2026 02:35
 a72f98ef-5baf-41c4-a162-fe117bd903ea,female.creditcard,available,9.99,236.99,high,low,6,name.com,,,
 55489e2b-05be-4b4a-99fb-8f171f81fdc0,apropos.creditcard,available,9.99,236.99,medium,low,7,name.com,,,06/08/2026 10:00
 6b9b7c56-a03f-43bd-a79c-35c7ff7bb7ac,unnatural.creditcard,available,9.99,236.99,low,low,9,name.com,,,
@@ -999,3 +998,4 @@ d47af43c-8b14-4c51-ba2f-1e17eb932164,drivinglicense.creditcard,available,9.99,,h
 4d6e4ac5-d7bd-493b-877c-54de8eb9a1a7,aerobiotic.creditcard,available,9.99,236.99,low,low,10,name.com,,,
 b3106937-a418-42f1-aa6b-8c380682191e,stands.creditcard,available,9.99,,low,low,6,name.com,,,
 9460c812-b7fa-45ff-9d5e-e5e697230b35,unused.creditcard,available,9.99,,medium,low,6,name.com,,,
+e1b736e8-57d7-4d84-b4d3-28f3b815fd62,computerliterate.creditcard,available,9.99,,high,low,17,name.com,,,
