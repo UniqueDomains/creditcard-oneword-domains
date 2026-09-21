@@ -510,7 +510,7 @@ e130d708-a0d0-4c2e-9211-34a90f16b60f,asterismal.creditcard,available,9.99,236.99
 225c3617-a002-4acd-9431-3b88116d65c3,auriform.creditcard,available,9.99,236.99,low,low,8,name.com,,,07/08/2026 17:57
 493a4f2e-cb26-4f26-8638-9e2b54a29c06,applied.creditcard,available,9.99,236.99,medium,low,7,name.com,,,06/08/2026 07:11
 3950ed97-ba10-4ace-9be3-164f379d125b,arching.creditcard,available,9.99,236.99,low,low,7,name.com,,,06/08/2026 14:39
-93c43887-6e2c-4637-8016-52464b5a86f6,business.creditcard,resell,,,medium,low,8,Porkbun LLC,29/08/2014 16:00,29/08/2027 16:00,19/09/2026 02:33
+93c43887-6e2c-4637-8016-52464b5a86f6,business.creditcard,resell,,,medium,low,8,Porkbun LLC,29/08/2014 16:00,29/08/2027 16:00,20/09/2026 12:51
 9807a0a0-6774-474a-a1df-2506215fde60,creating.creditcard,available,9.99,,high,low,8,name.com,,,
 9b831237-578e-4f5e-bac8-b78620045191,letter.creditcard,available,9.99,,high,low,6,name.com,,,
 a5d5f657-2186-4a73-805d-93fcea3dce0d,generalknowledge.creditcard,available,9.99,,high,low,17,name.com,,,
@@ -908,7 +908,7 @@ a49a2311-f279-445e-9c59-20ee93fd9b6e,secured.creditcard,premium,854,854,high,low
 d04d1f99-3330-4565-9850-5f601983c7ef,volatile.creditcard,available,9.99,,high,low,8,name.com,,,
 f1118bc9-813c-4283-8bbb-0e08730f606d,graywolf.creditcard,available,9.99,,high,low,9,name.com,,,
 e71bd1e7-10ec-44af-a11d-fae9a560879c,adorable.creditcard,available,9.99,236.99,high,low,8,name.com,,,
-bafd2864-ea4d-4bc3-88ea-7093fc3c56d4,technology.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,19/09/2026 02:35
+bafd2864-ea4d-4bc3-88ea-7093fc3c56d4,technology.creditcard,available,156.98,168.98,medium,low,10,namecheap,,,20/09/2026 16:48
 a72f98ef-5baf-41c4-a162-fe117bd903ea,female.creditcard,available,9.99,236.99,high,low,6,name.com,,,
 55489e2b-05be-4b4a-99fb-8f171f81fdc0,apropos.creditcard,available,9.99,236.99,medium,low,7,name.com,,,06/08/2026 10:00
 6b9b7c56-a03f-43bd-a79c-35c7ff7bb7ac,unnatural.creditcard,available,9.99,236.99,low,low,9,name.com,,,
