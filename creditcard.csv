@@ -31,6 +31,8 @@ c0f3d94b-9fae-43d5-8e6d-d93a60117bf3,dexter.creditcard,available,9.99,236.99,hig
 a91eb8ab-06bb-4ff7-9866-379c7cdc6150,astrocyte.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,20/09/2026 17:36
 3409d825-51b1-4767-abb6-1b4f12ef7509,carob.creditcard,available,144.99,144.99,medium,low,5,namesilo,,,18/09/2026 06:50
 23b9705c-d9a7-435d-aa1f-6e25b55ad188,young.creditcard,available,129.2,129.2,high,low,5,spaceship,,,28/09/2026 09:49
+0b9b853d-9f4b-4a8b-a0b5-5bd626f55582,condensation.creditcard,available,125.2,125.2,medium,low,12,cloudflare,,,01/10/2026 13:08
+92f0959f-3e36-45ce-ac4a-6bf7a3480126,chopin.creditcard,available,125.2,125.2,high,low,6,cloudflare,,,02/10/2026 04:21
 6432e7a8-282a-4f12-b769-3ed44849931e,trick.creditcard,available,144.99,144.99,high,low,5,namesilo,,,22/09/2026 06:28
 97325f36-65f7-4821-ac19-87c81f1c5200,gasoline.creditcard,premium,828.2,828.2,high,low,8,spaceship,,,27/09/2026 13:38
 ab487f59-c9c4-4b4e-8e66-f80b60ae0131,befuddled.creditcard,available,9.99,236.99,medium,low,9,name.com,,,07/08/2026 11:41
@@ -46,13 +48,14 @@ b8477278-e840-47b8-b40d-023a72ee310c,blowy.creditcard,available,9.99,236.99,medi
 5fe28604-22e3-47c6-9cc6-91a6658ac865,carpal.creditcard,available,9.99,236.99,high,low,6,name.com,,,11/08/2026 19:34
 8933d292-286a-4ebb-93a4-4f3a355a9b98,rented.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,17/09/2026 18:45
 f9134311-9557-403c-bbe0-15741940fcb8,chronic.creditcard,available,9.99,236.99,high,low,7,name.com,,,12/08/2026 07:24
+73904628-3d98-44d1-8963-c5ab7e1ba18a,sebring.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,01/10/2026 23:35
 02dce122-8f76-447a-bf33-8b861c85dbab,between.creditcard,available,144.99,144.99,high,low,7,namesilo,,,28/09/2026 11:25
 443b7bfc-f956-4791-b064-692bfbc67696,blowback.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,21/09/2026 15:28
 8237d1b5-b3c7-4c70-8094-5245a3e509d7,yue.creditcard,available,125.2,125.2,high,low,3,cloudflare,,,29/09/2026 18:11
 a42b18d9-1bbf-4b75-8240-855b521d7e58,leah.creditcard,available,144.99,144.99,high,low,4,namesilo,,,27/09/2026 07:15
 ac5a8d02-461e-4b7e-9a8b-a44ae3c5bfa5,doggedly.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,14/09/2026 13:33
 8ebb1409-8ef9-4d12-9707-1a21dc651f22,herpes.creditcard,available,144.99,144.99,high,low,6,namesilo,,,30/09/2026 17:37
-87ee8a9a-7ce4-4979-afbe-f4f290c182da,conflicted.creditcard,available,9.99,,medium,low,10,name.com,,,
+87ee8a9a-7ce4-4979-afbe-f4f290c182da,conflicted.creditcard,available,129.2,129.2,medium,low,10,spaceship,,,01/10/2026 07:28
 50d7d956-e24b-4c60-976b-2be5e2599855,jamison.creditcard,available,125.2,125.2,high,low,7,cloudflare,,,29/09/2026 19:25
 fcc1c2e0-694a-4171-805e-169ed752fd88,unauthorized.creditcard,available,5.57,133.52,medium,low,12,dynadot,,,28/09/2026 22:49
 118a89ce-26b0-48a0-8950-6c99694285d0,landed.creditcard,available,9.99,236.99,high,low,6,name.com,,,22/08/2026 19:22
@@ -69,13 +72,16 @@ bc0c4834-823d-4130-85ca-b323ef66a486,medina.creditcard,available,144.99,144.99,h
 8218a35a-99bf-4e4f-b9a0-e128a614fc9a,freud.creditcard,available,125.2,125.2,medium,low,5,cloudflare,,,28/09/2026 09:49
 45a98f62-3d0a-4124-8b23-127913233eb1,sent.creditcard,available,144.99,144.99,high,low,4,namesilo,,,19/09/2026 16:10
 d4002b00-caf5-45a0-b0fe-2ec3432a5644,grandpas.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,21/09/2026 09:18
+5a562c36-638f-4d09-a6d4-270733ececaa,gordy.creditcard,available,125.2,125.2,medium,low,5,cloudflare,,,02/10/2026 00:35
 b81e9530-c408-4a4e-bbf4-bc3837171aa9,dutchess.creditcard,available,129.2,129.2,high,low,8,spaceship,,,29/09/2026 21:34
 1d284f66-45ef-476e-9824-4486a1c38570,strindberg.creditcard,available,156.98,168.98,medium,low,10,namecheap,,,21/09/2026 03:49
+8535f915-e59f-4a63-8a7d-e5d1ba5d0f0c,kerosene.creditcard,available,129.2,129.2,high,low,8,spaceship,,,01/10/2026 18:59
 4bad2f78-fd7f-4b43-80a8-26bb53ef0bbc,bearded.creditcard,available,9.99,236.99,high,low,7,name.com,,,08/08/2026 16:05
 16055d66-9277-4528-a8ee-7bcd512a9917,bosh.creditcard,available,144.99,144.99,medium,low,4,namesilo,,,21/09/2026 23:47
 c6a5e224-bcc0-4bf8-9f88-80053e9a7eec,bangalore.creditcard,premium,242,242,high,low,9,namesilo,,,22/09/2026 01:45
 5764260e-3820-471f-8dee-eb0732361e32,prepare.creditcard,available,144.99,144.99,high,low,7,namesilo,,,27/09/2026 10:25
 bd454c28-68f7-4621-b215-df0a83558f0a,abnaki.creditcard,available,9.99,236.99,medium,low,6,name.com,,,
+7fc737f0-d87f-4e22-b7ff-15c271f9daf8,wada.creditcard,available,144.99,144.99,medium,low,4,namesilo,,,01/10/2026 14:19
 57d0435a-e380-4074-aa18-4b236c0e0676,underground.creditcard,available,144.99,144.99,high,low,11,namesilo,,,26/09/2026 00:51
 c7e20b4c-6af7-46cc-adc0-61951c2f7378,nickname.creditcard,available,144.99,144.99,high,low,8,namesilo,,,24/09/2026 11:25
 42a30128-78cb-4353-9579-1bd29775929a,pits.creditcard,available,129.2,129.2,low,low,4,spaceship,,,28/09/2026 23:33
@@ -104,6 +110,7 @@ d6c4d098-9ebc-484b-b9f3-a881ac9b1e75,nutcase.creditcard,available,9.99,236.99,me
 13b48d34-6131-471d-af67-8b8fd943f877,napoleonic.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,03/09/2026 13:00
 2da8802f-f9a5-4e47-aa8a-e93b0c7dd1f4,sheepshead.creditcard,available,156.98,168.98,medium,low,10,namecheap,,,20/09/2026 02:29
 ec9033fa-fb2d-4794-871b-043dcd0494f7,rabbits.creditcard,available,129.2,129.2,medium,low,7,spaceship,,,28/09/2026 05:05
+83c897b8-b072-4183-b426-d44750e04dd7,antiquities.creditcard,available,144.99,144.99,medium,low,11,namesilo,,,02/10/2026 01:45
 a5f2186d-8b45-438c-80b4-1e26bfa56684,atkins.creditcard,available,156.98,168.98,high,low,6,namecheap,,,25/09/2026 17:28
 24501553-53d4-44b3-83f4-f8c8f1862ef0,amy.creditcard,available,144.99,144.99,high,low,3,namesilo,,,25/09/2026 16:39
 ae480b63-382c-4c23-80b4-49d535e1167e,tension.creditcard,available,156.98,168.98,high,low,7,namecheap,,,27/09/2026 14:38
@@ -144,18 +151,21 @@ b2d1cea4-d90f-446c-adc4-bf715897b8b8,dark.creditcard,available,156.98,168.98,hig
 97d38c20-62e5-45f9-8736-b4e7e5bfa24a,carryforward.creditcard,available,144.99,144.99,medium,low,13,namesilo,,,16/09/2026 06:47
 98aa6c85-fbcc-4fc5-88ac-1ec6c8b00b34,gladly.creditcard,available,9.99,236.99,high,low,6,name.com,,,17/08/2026 20:47
 911cdb89-4f9b-4405-864b-4fef3ad6f452,tran.creditcard,available,156.98,168.98,high,low,4,namecheap,,,29/09/2026 03:38
+3e2afec3-8bcc-4987-8e14-1ffde72793e8,topeka.creditcard,available,129.2,129.2,high,low,6,spaceship,,,02/10/2026 04:15
 65f54548-8cd4-4e43-9f90-25d493fd8660,querier.creditcard,available,156.98,168.98,medium,low,7,namecheap,,,20/09/2026 14:26
 6a1774d6-4f1e-4213-848a-17f3da62ed37,wire.creditcard,available,144.99,144.99,high,low,4,namesilo,,,29/09/2026 05:42
+bd764e50-43a6-43f1-b2d4-937835711630,combines.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,02/10/2026 02:48
 2fcc726b-113a-4bf6-8cbd-9dcfcc171092,europium.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,20/09/2026 23:26
 1a7652ee-d413-411a-83c8-f78d92263dd5,frothy.creditcard,available,9.99,236.99,medium,low,6,name.com,,,11/08/2026 07:22
 5814a9e3-a7d1-48f8-90d3-10bda4695d25,consequence.creditcard,available,144.99,144.99,high,low,11,namesilo,,,28/09/2026 15:40
-fe5a4d75-5b82-4537-a4d2-3433875af60f,substantial.creditcard,available,9.99,,high,low,11,name.com,,,
+fe5a4d75-5b82-4537-a4d2-3433875af60f,substantial.creditcard,available,129.2,129.2,high,low,11,spaceship,,,01/10/2026 05:35
 99906c4f-873c-473d-9507-4d7a642fa0c1,uml.creditcard,available,9.99,,high,low,3,name.com,,,
 fc44e4ec-4c33-485b-a42c-d7b155a5fc7f,structurally.creditcard,available,156.98,168.98,medium,low,12,namecheap,,,17/09/2026 20:10
 4a9d2c6f-723a-42a2-bd4e-f21a7e31a36d,tyranny.creditcard,available,156.98,168.98,medium,low,7,namecheap,,,16/09/2026 18:02
 2d6b58b3-db6d-4ad2-870a-5c8d6d43e995,tremulous.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,09/09/2026 07:46
 e4737b06-c9f8-428a-84b7-eb3988a98c7e,involved.creditcard,available,144.99,144.99,high,low,8,namesilo,,,25/09/2026 11:16
 fa200431-8fc0-4442-9e77-1adbf64e860e,developmental.creditcard,available,5.66,129.25,medium,low,13,porkbun,,,29/09/2026 02:36
+6021f9c2-9629-405d-a931-c0ca1e506057,coils.creditcard,available,129.2,129.2,medium,low,5,spaceship,,,02/10/2026 03:31
 5e7eeb5e-ec88-44c6-9998-8fa578921e08,redevelopment.creditcard,available,129.2,129.2,medium,low,13,spaceship,,,01/10/2026 03:37
 ca9e36e8-bde1-4c05-8a14-f4daf4557a5c,tickle.creditcard,available,144.99,144.99,high,low,6,namesilo,,,11/09/2026 15:31
 513ba6d7-0072-4721-adf0-b83f24ac7002,venerating.creditcard,available,144.99,144.99,high,low,10,namesilo,,,09/09/2026 16:09
@@ -181,10 +191,12 @@ e67b35e9-0643-4160-8c05-5a864b9ca434,prototypes.creditcard,available,125.2,125.2
 987c65dc-5b84-480c-af42-92625d93b62e,fuller.creditcard,available,144.99,144.99,high,low,6,namesilo,,,29/09/2026 11:47
 5c46718a-2c69-49fd-bc98-aa4c5aa941b1,basal.creditcard,available,9.99,236.99,medium,low,5,name.com,,,08/08/2026 21:24
 6d4c3b87-0ef4-4b0b-ac2c-fa9227574bdc,biochemist.creditcard,available,144.99,144.99,high,low,10,namesilo,,,23/09/2026 17:44
+5800f72a-af68-40c6-9fd5-0dc0c700a2b9,spe.creditcard,available,129.2,129.2,high,low,3,spaceship,,,01/10/2026 04:54
 f9e5b605-c231-475c-bc8b-be1ae992f57f,kroeber.creditcard,available,156.98,168.98,medium,low,7,namecheap,,,18/09/2026 06:35
 110fb2b8-8138-4981-8466-b5d0f75c1d42,axenic.creditcard,available,9.99,236.99,medium,low,6,name.com,,,08/08/2026 01:51
 79c717b7-987a-47cc-86e2-61c5bf8a7f6c,legends.creditcard,available,129.2,129.2,high,low,7,spaceship,,,28/09/2026 18:05
 da5eb4dc-8721-4f73-824c-be5ef06bff30,sappy.creditcard,available,9.99,236.99,medium,low,5,name.com,,,12/08/2026 14:56
+063d003b-9f7b-4e0f-ac92-5d86c65d1918,hospice.creditcard,available,129.2,129.2,high,low,7,spaceship,,,01/10/2026 20:00
 f8f9ba40-11a7-480c-8ba4-00023ee7b0d2,madrid.creditcard,premium,260,260,high,low,6,namecheap,,,29/09/2026 06:59
 8b45a882-15fc-4c72-a1f3-590650a992b3,nonvisual.creditcard,available,156.98,168.98,medium,low,9,namecheap,,,03/09/2026 21:06
 75b789b0-fc0b-4633-8480-c9ac1fa75774,tillers.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,20/09/2026 14:06
@@ -237,6 +249,7 @@ a0d8139e-b9f6-4f57-86be-20b00ea27cfc,worshipful.creditcard,available,9.99,236.99
 cd2c6d73-85c1-4d6f-a34c-c2ced1de1acb,bacitracin.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,21/09/2026 14:25
 d4ef4b24-a439-4740-aa87-ef2f2995520d,atmospheric.creditcard,available,129.2,129.2,high,low,11,spaceship,,,29/09/2026 21:02
 624172fd-4a08-4e21-a246-79087f6adb41,bonded.creditcard,available,5.66,129.25,medium,low,6,porkbun,,,29/09/2026 05:02
+95537c86-d88d-41d5-8738-adbae6333c7f,objectivity.creditcard,available,129.2,129.2,high,low,11,spaceship,,,01/10/2026 13:53
 ca5dff82-767f-4f0d-9867-b9f33f9af530,asset.creditcard,available,129.2,129.2,high,low,5,spaceship,,,01/10/2026 02:31
 66730ed0-20d0-456d-b0e2-3b1d43500b32,ultimo.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,11/09/2026 22:47
 e0331d0a-d816-4f64-96d0-f67649ab01b4,legless.creditcard,available,9.99,236.99,medium,low,7,name.com,,,22/08/2026 23:13
@@ -266,6 +279,7 @@ a33715d2-ce8b-47f1-a9b0-09a07e325302,mustache.creditcard,available,125.2,125.2,h
 710b3113-e447-4195-bd53-33c8cf1ba460,aggregates.creditcard,available,125.2,125.2,low,low,10,cloudflare,,,28/09/2026 08:51
 9963a1c9-96e8-4a73-b962-d1863586f639,proceeds.creditcard,available,129.2,129.2,high,low,8,spaceship,,,29/09/2026 01:54
 9d7a7c75-65e1-48f5-9b65-b118c01710e3,placed.creditcard,available,144.99,144.99,high,low,6,namesilo,,,25/09/2026 14:13
+7a7795a1-22ac-40e2-bb67-05512cf92a19,mtdna.creditcard,available,5.66,129.25,high,low,5,porkbun,,,01/10/2026 15:59
 b2fb9ecf-315e-4973-b733-56b505e38af4,behmen.creditcard,available,9.99,236.99,medium,low,6,name.com,,,23/09/2026 03:43
 f8318caa-47f3-4edc-9543-b01feec8bc40,assembled.creditcard,available,125.2,125.2,medium,low,9,cloudflare,,,28/09/2026 23:20
 eb9c335c-0792-4f83-9bfd-27717caf98a1,purchased.creditcard,available,156.98,168.98,low,low,9,namecheap,,,28/09/2026 17:30
@@ -282,6 +296,8 @@ aec5ba3a-c765-45e9-88f3-d5293e965ffb,parasites.creditcard,available,129.2,129.2,
 612c05e4-e4be-4a68-af2b-16a80e85cacd,fight.creditcard,available,156.98,168.98,high,low,5,namecheap,,,24/09/2026 17:58
 65da040b-0a96-4240-b1e2-b3bfd607ba37,shaded.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,10/09/2026 05:23
 c8e246c8-2677-4560-822d-d1e3f840268b,hagerstown.creditcard,available,5.57,133.52,medium,low,10,dynadot,,,29/09/2026 19:06
+ccfc29c8-95d3-4a80-b2f0-87f312c96ff3,med.creditcard,premium,260,260,high,medium,3,namecheap,,,01/10/2026 20:29
+f3cd6203-6dae-4a14-8c4d-8d5e9290db0c,hensley.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,02/10/2026 00:43
 d36e1fbc-f9da-47ad-a526-8fef93d529c3,devon.creditcard,available,144.99,144.99,high,low,5,namesilo,,,25/09/2026 04:52
 7997e37b-b5bb-4e5c-8f6c-12f81aaecc62,doctorial.creditcard,available,9.99,236.99,medium,low,9,name.com,,,14/08/2026 14:21
 f623e97a-56fe-4362-94e5-c063bfc0f38c,coated.creditcard,available,9.99,236.99,medium,low,6,name.com,,,12/08/2026 14:14
@@ -292,6 +308,7 @@ d2e8a27c-2324-490c-9b96-923d69aaad66,textual.creditcard,available,144.99,144.99,
 dcde282a-7ecd-4a1f-99d0-5cadc807c3bc,attested.creditcard,available,9.99,236.99,medium,low,8,name.com,,,07/08/2026 15:41
 1d6a1c1a-bb00-4fd9-961b-eaf5c872736c,agitator.creditcard,available,156.98,168.98,medium,low,8,namecheap,,,17/09/2026 18:07
 54aab704-d33e-4add-b4fc-bf533581acda,prominence.creditcard,available,144.99,144.99,high,low,10,namesilo,,,24/09/2026 11:05
+b357493d-cc34-4db8-8544-9354587cfbf2,formulation.creditcard,available,125.2,125.2,high,low,11,cloudflare,,,01/10/2026 13:01
 464fc7c3-d34c-4f2e-a140-c86c7e87e2e0,fim.creditcard,available,156.98,168.98,medium,low,3,namecheap,,,29/09/2026 21:32
 7b732506-f3d0-4488-a67b-874a6fbea8fd,alan.creditcard,available,144.99,144.99,high,low,4,namesilo,,,25/09/2026 11:29
 41abae32-ada5-4d09-b0da-d32bfdfdebfc,unmatched.creditcard,available,156.98,168.98,high,low,9,namecheap,,,25/09/2026 17:47
@@ -299,7 +316,9 @@ dcde282a-7ecd-4a1f-99d0-5cadc807c3bc,attested.creditcard,available,9.99,236.99,m
 d1693efc-48a1-4f4e-a7ab-474e026194f4,angiogram.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,19/09/2026 06:13
 921317a3-b1d3-45c0-b529-462c1e38676c,valid.creditcard,available,125.2,125.2,high,low,5,cloudflare,,,28/09/2026 10:05
 6aa03ce2-9797-4f24-a524-1e13a73e5d18,baba.creditcard,available,144.99,144.99,high,low,4,namesilo,,,21/09/2026 12:09
+ca6e8f43-0aae-481f-bff9-fc10940803b7,grieve.creditcard,available,129.2,129.2,medium,low,6,spaceship,,,01/10/2026 21:44
 0987c07c-c2ac-49c9-85ff-973c9b1e5110,sick.creditcard,available,144.99,144.99,high,low,4,namesilo,,,23/09/2026 02:10
+435a5ef4-380b-4af9-a296-381963906444,scraped.creditcard,available,144.99,144.99,low,low,7,namesilo,,,02/10/2026 02:28
 c2e0e50d-be5e-4772-9dae-492e31fc2abd,moths.creditcard,available,156.98,168.98,medium,low,5,namecheap,,,30/09/2026 06:56
 7e3232cf-d993-4690-93d9-2b85f71b330c,exposit.creditcard,available,9.99,236.99,medium,low,7,name.com,,,15/08/2026 23:47
 7e438b90-8d62-4691-8185-7b468c1926ef,microwave.creditcard,available,125.2,125.2,high,low,9,cloudflare,,,30/09/2026 04:20
@@ -307,10 +326,11 @@ c2e0e50d-be5e-4772-9dae-492e31fc2abd,moths.creditcard,available,156.98,168.98,me
 ba08d3e1-5839-49ba-98af-33ebdf515adb,motown.creditcard,available,125.2,125.2,high,low,6,cloudflare,,,29/09/2026 06:38
 fdb13106-3fd2-4ac0-a96d-310d212df18f,withdrawn.creditcard,available,9.99,236.99,medium,low,9,name.com,,,22/08/2026 03:25
 a786b1e6-5d8a-4bc4-92e9-a5ebf1e6c0f8,sainted.creditcard,available,9.99,236.99,high,low,7,name.com,,,
-f43e2705-c4af-474b-867f-defbafebeb49,healthy.creditcard,available,144.99,144.99,high,low,7,namesilo,,,24/09/2026 22:43
+f43e2705-c4af-474b-867f-defbafebeb49,healthy.creditcard,available,5.57,133.52,high,low,7,dynadot,,,01/10/2026 22:45
 fdea9043-8966-4dee-914e-4353e82a645c,lefthanded.creditcard,available,144.99,144.99,high,low,11,namesilo,,,30/09/2026 22:36
 49624830-8792-46c0-a297-8fa3f56e0682,despite.creditcard,available,129.2,129.2,high,low,7,spaceship,,,29/09/2026 11:22
 8d3ccb95-ab50-4fb7-90d4-bdb2415f834f,ramsey.creditcard,available,156.98,168.98,high,low,6,namecheap,,,25/09/2026 15:22
+5ad32857-8851-43a2-868a-32ba9fc01452,genitals.creditcard,available,5.57,133.52,high,low,8,dynadot,,,01/10/2026 19:44
 0e697b19-2453-4971-9184-4d2462c97f30,shade.creditcard,available,144.99,144.99,high,low,5,namesilo,,,28/09/2026 02:00
 282e963c-6b1d-4c14-a8e6-aecb62ef6406,fishy.creditcard,available,9.99,236.99,high,low,5,name.com,,,18/08/2026 05:32
 4f29d16d-19a8-422f-9e01-22db1bcdb36e,fumes.creditcard,available,5.66,129.25,high,low,5,porkbun,,,30/09/2026 01:34
@@ -348,6 +368,7 @@ e7089520-68a9-488e-9e21-f9645124635a,dcs.creditcard,available,156.98,168.98,high
 208de392-1e56-4441-8102-682b343bdfc3,outreach.creditcard,available,144.99,144.99,high,low,8,namesilo,,,30/09/2026 10:41
 75e93990-340b-47f1-bfc2-7ad13326b4d6,magpie.creditcard,available,156.98,168.98,high,low,6,namecheap,,,21/09/2026 12:29
 a7e8dc0f-8c3d-4e13-8a1d-b89c593e2508,foothold.creditcard,available,144.99,144.99,high,low,8,namesilo,,,24/09/2026 10:16
+3fc97ef4-b0db-4d0a-88b5-6efae6119484,coworkers.creditcard,available,5.66,129.25,medium,low,9,porkbun,,,02/10/2026 03:43
 85cc40e4-708d-4a97-90c5-0db7457a0b05,beijing.creditcard,premium,242,242,high,low,7,namesilo,,,23/09/2026 04:10
 0b0c90eb-bdf8-4c5a-9b48-fae1954e84e7,reno.creditcard,premium,242,242,high,low,4,namesilo,,,28/09/2026 06:40
 2e258d3f-cbdf-43c6-9eec-2e3468e58f93,amos.creditcard,available,156.98,168.98,high,low,4,namecheap,,,18/09/2026 22:51
@@ -359,13 +380,14 @@ e69bbce8-9bd1-48ae-9687-c22ec814c7ad,paperlike.creditcard,available,9.99,236.99,
 0f7abc18-a283-432d-aacc-830328784658,culturally.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,14/09/2026 09:57
 542b7d29-745d-4f78-a12a-fac4f23c9911,tapered.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,03/09/2026 13:29
 82046e53-947a-45e7-956c-5425c3b7d5dd,cheryl.creditcard,available,156.98,168.98,medium,low,6,namecheap,,,27/09/2026 07:16
+23faa5a2-9d91-40be-b3c6-c048b5feab67,rugs.creditcard,available,125.2,125.2,medium,low,4,cloudflare,,,02/10/2026 03:20
 544f668c-24a2-43e6-9c19-21ab7e93106f,irina.creditcard,available,144.99,144.99,high,low,5,namesilo,,,29/09/2026 15:31
 4cf64fc2-ce83-4e03-8442-84330095d191,arises.creditcard,available,5.57,133.52,low,low,6,dynadot,,,30/09/2026 07:05
 15da60e3-dc75-4cc1-bc39-9e169bafeee7,harquebus.creditcard,available,156.98,168.98,medium,low,9,namecheap,,,20/09/2026 08:40
 61fcd594-ce22-4983-b0cd-ddd45ee353d9,less.creditcard,available,144.99,144.99,high,low,4,namesilo,,,25/09/2026 13:30
 2a038aef-9517-4b7b-990a-cd635ea97fc5,shafts.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,30/09/2026 15:34
 0998fe4e-2064-48c6-b8d5-a4e71e2b8c17,activating.creditcard,available,9.99,236.99,high,low,10,name.com,,,
-2b4ff5f0-8f34-4451-bb1b-4d8a893095a8,wastebasket.creditcard,available,9.99,,high,low,11,name.com,,,
+2b4ff5f0-8f34-4451-bb1b-4d8a893095a8,wastebasket.creditcard,available,144.99,144.99,high,low,11,namesilo,,,02/10/2026 00:52
 8715bb7a-fb94-47b9-ba92-5a565dd40b75,fraternal.creditcard,available,9.99,236.99,high,low,9,name.com,,,10/08/2026 03:44
 a980a3c3-f837-48c9-ac02-efc3d154ff79,flock.creditcard,available,9.99,236.99,high,low,5,name.com,,,25/08/2026 00:21
 ac9eaebe-fa13-46e2-81de-9c8c428ec7c4,spun.creditcard,available,144.99,144.99,medium,low,4,namesilo,,,29/09/2026 15:59
@@ -385,16 +407,21 @@ ae84b805-59e9-49ea-b62e-7d0dbd4fe650,vocational.creditcard,available,144.99,144.
 c1aedd1d-4d60-4e27-84d2-05fff55cd068,betatron.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,23/09/2026 11:04
 6bf93ce8-86a1-4015-bb45-856fcbb24420,pdp.creditcard,available,125.2,125.2,high,low,3,cloudflare,,,28/09/2026 21:36
 db84fc91-92b6-4fc7-9454-b530f3ae5636,apery.creditcard,available,144.99,144.99,medium,low,5,namesilo,,,19/09/2026 16:43
+363ed0a1-21fc-4dcb-949b-1d6df842464d,surfactants.creditcard,available,129.2,129.2,medium,low,11,spaceship,,,02/10/2026 03:49
 c2582420-45e2-47ff-91e0-ac807f70c656,anasarca.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,19/09/2026 03:14
+4be2786f-2d6b-4309-b1c2-a948cea0e1bf,rong.creditcard,available,125.2,125.2,low,low,4,cloudflare,,,02/10/2026 02:50
 1fa129af-b076-4e54-bd0b-4fd0831f5756,poisson.creditcard,available,129.2,129.2,medium,low,7,spaceship,,,28/09/2026 11:23
 0e0b3db7-06e9-4554-afdd-f05f1d533417,complaint.creditcard,available,144.99,144.99,high,low,9,namesilo,,,25/09/2026 07:37
 58e7bf23-2c8c-4dab-9966-bc6cab762943,watertown.creditcard,available,129.2,129.2,medium,low,9,spaceship,,,28/09/2026 06:52
+05d9ef5b-4577-498a-91dd-b2ee2419b23e,oka.creditcard,available,144.99,144.99,high,low,3,namesilo,,,01/10/2026 21:09
 b9ec721f-5a4d-4736-8c7e-8c78297f549e,unavoidable.creditcard,available,125.2,125.2,high,low,11,cloudflare,,,30/09/2026 11:43
 2c8f982b-21a6-4440-9698-10b2ff668ba7,occurred.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,18/09/2026 13:50
 25281798-093a-4af4-ab50-8ac617870ed6,judaic.creditcard,available,9.99,236.99,medium,low,6,name.com,,,22/08/2026 13:17
 4a42baea-43ee-43bc-948e-d2fccda97bfe,wizard.creditcard,available,156.98,168.98,high,medium,6,namecheap,,,21/09/2026 18:11
 77b7716a-9728-47bd-8455-35be9f326b53,thirteen.creditcard,available,144.99,144.99,high,low,8,namesilo,,,21/09/2026 11:32
+6011a4e0-3f15-40c3-bce8-c540873649c0,seamus.creditcard,available,156.98,168.98,medium,low,6,namecheap,,,01/10/2026 23:52
 7f7a2481-ba84-4436-b4c1-254da64d2af3,spending.creditcard,available,144.99,144.99,high,low,8,namesilo,,,27/09/2026 03:51
+711f9ee7-02be-4f28-9d6e-700edcb187c3,legislature.creditcard,available,144.99,144.99,high,low,11,namesilo,,,01/10/2026 05:03
 08e7d855-4057-42c3-b906-13a79f9f7249,innocence.creditcard,available,144.99,144.99,high,low,9,namesilo,,,28/09/2026 22:20
 bce54b1d-a6c3-4e1e-85ca-fafbe561ced0,abenaki.creditcard,available,9.99,236.99,medium,low,7,name.com,,,
 3d9ce218-f7d9-4992-812c-a0c3bed5cd3e,sorcery.creditcard,available,156.98,168.98,high,low,7,namecheap,,,23/09/2026 23:51
@@ -402,10 +429,13 @@ f02e8847-3174-459a-8ca8-e4f2b440f2a2,parole.creditcard,available,144.99,144.99,h
 1d11b594-4fae-4396-979e-131bc4133b43,diverse.creditcard,available,9.99,236.99,high,low,7,name.com,,,14/08/2026 13:39
 a88b0ec9-2325-49de-bef1-906525795869,interests.creditcard,available,144.99,144.99,high,low,9,namesilo,,,25/09/2026 16:44
 6bc8e000-ee0a-41d2-890a-45853464b03e,feast.creditcard,available,144.99,144.99,high,low,5,namesilo,,,22/09/2026 03:01
+6ad93aa4-7e59-4419-b5bd-c1d73d7b5da9,jed.creditcard,available,5.57,133.52,medium,low,3,dynadot,,,01/10/2026 23:48
 34d3c1ee-5eb4-4b4d-818f-74094d4e7ae3,buchanan.creditcard,available,125.2,125.2,high,low,8,cloudflare,,,28/09/2026 01:11
 504ab1e1-ed88-43e0-82f0-7195cda7dce1,cramp.creditcard,available,144.99,144.99,medium,low,5,namesilo,,,30/09/2026 16:50
+342e6c51-6556-47e6-9080-8a872b194737,combs.creditcard,available,125.2,125.2,high,low,5,cloudflare,,,02/10/2026 00:48
 6f58fa57-ffba-4706-a0f0-4bd08cdbc275,widow.creditcard,available,144.99,144.99,high,low,5,namesilo,,,27/09/2026 05:54
 54238007-4c84-464c-804f-d68f4b80b5d8,beatniks.creditcard,available,156.98,168.98,medium,low,8,namecheap,,,22/09/2026 21:34
+c3c8e76e-e8e2-4b25-8b98-5ed910aaaeec,ees.creditcard,available,156.98,168.98,medium,low,3,namecheap,,,02/10/2026 02:49
 5298e5e2-3678-43bb-bb41-64a2dd3e922b,resignation.creditcard,available,9.99,,high,low,11,name.com,,,
 1ada5036-c8ef-4390-b53e-8b9575c674ed,sumter.creditcard,available,129.2,129.2,medium,low,6,spaceship,,,28/09/2026 12:23
 9c6e6264-427b-4bf0-87fd-60ae435f3509,caddo.creditcard,available,144.99,144.99,medium,low,5,namesilo,,,30/09/2026 16:33
@@ -415,6 +445,7 @@ d33e7498-f4e1-47f0-8897-e9e8dc746608,valves.creditcard,available,129.2,129.2,med
 afb59e11-5195-4d89-86a1-13cb78174c43,ellie.creditcard,available,5.66,129.25,high,low,5,porkbun,,,28/09/2026 04:48
 8ea2e461-ae61-4ec6-aeae-77a7f9f96e1e,tutor.creditcard,available,5.66,129.25,high,low,5,porkbun,,,28/09/2026 10:46
 b6d81088-51da-43cb-811b-01365665d975,cloudy.creditcard,available,9.99,236.99,high,low,6,name.com,,,12/08/2026 12:41
+121f8dea-75ea-4c99-9608-7a93f599edf1,disrupting.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,01/10/2026 23:05
 78494194-8e04-4a4a-b56d-6c0a1a720da5,lettuce.creditcard,available,144.99,144.99,high,low,7,namesilo,,,29/09/2026 03:25
 2a7d8046-36de-4746-a54d-22468324f6f8,wilful.creditcard,available,9.99,236.99,medium,low,6,name.com,,,18/08/2026 16:39
 743b5b2f-ed7d-4680-800d-53f30abc5d6f,banjo.creditcard,available,144.99,144.99,high,low,5,namesilo,,,22/09/2026 02:11
@@ -440,6 +471,7 @@ c6b967cc-fcad-4557-be8d-a3847a49fb39,dipped.creditcard,available,9.99,236.99,med
 f016c105-af28-4058-96e1-b17ed24d8a13,guarnieri.creditcard,available,156.98,168.98,medium,low,9,namecheap,,,19/09/2026 04:23
 4d8d11f1-b52b-41ec-97d7-280f71a9270d,hexagonal.creditcard,available,9.99,236.99,medium,low,9,name.com,,,21/08/2026 07:50
 58e52694-fb2b-48b5-8061-c1d70a2a0e2b,rebels.creditcard,available,125.2,125.2,medium,low,6,cloudflare,,,28/09/2026 08:52
+da4f1c8f-f884-4fa1-984e-3e9deca5dd84,composers.creditcard,available,129.2,129.2,medium,low,9,spaceship,,,02/10/2026 02:41
 2d33ad7b-a7e1-4f0b-8449-af5fcbe9194e,whimsy.creditcard,available,144.99,144.99,high,low,6,namesilo,,,20/09/2026 00:42
 dc630427-7ace-454e-95c7-8615767a372d,routledge.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,28/09/2026 16:54
 60d1b970-407d-4a5b-a013-df7a7b41a212,vines.creditcard,available,125.2,125.2,medium,low,5,cloudflare,,,29/09/2026 23:04
@@ -450,6 +482,7 @@ a0b922ad-fa31-4246-95c2-6b0b6624e1b1,mike.creditcard,available,125.2,125.2,high,
 34f3cf81-406c-41f9-981a-e50e9067c1e9,unmined.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,12/09/2026 15:41
 4eadf8a2-958e-4c5b-aafa-54142b041cd0,somerset.creditcard,available,9.99,236.99,high,low,8,name.com,,,18/08/2026 08:27
 037cea37-a722-4ccf-9ec2-a64162c0faa0,after.creditcard,available,144.99,144.99,high,low,5,namesilo,,,21/09/2026 22:16
+2149a6a5-ab4c-445e-82c8-24126d5f6bce,scaring.creditcard,available,144.99,144.99,low,low,7,namesilo,,,02/10/2026 03:46
 c3a239bb-1e6e-4db4-910c-ad63d10bfb6f,mba.creditcard,available,144.99,144.99,high,low,3,namesilo,,,25/09/2026 09:16
 32d77eb2-8372-4492-b3f1-9e014cc7b134,quicker.creditcard,available,144.99,144.99,high,low,7,namesilo,,,14/09/2026 17:44
 8244b799-0c37-4d8e-88a3-66c47551e12a,automatically.creditcard,available,144.99,144.99,medium,low,13,namesilo,,,28/09/2026 07:07
@@ -471,6 +504,7 @@ a1fc6548-4309-4a8a-bb5e-fa21907020f6,smoggy.creditcard,available,144.99,144.99,m
 bc2d0e6b-d61d-4a09-86be-bf25bac5052f,wrenching.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,09/09/2026 09:27
 ef4a8f99-a613-460b-96d6-c778ce415cb6,pesky.creditcard,available,9.99,236.99,medium,low,5,name.com,,,
 9b6f23fc-4a41-44f9-801e-ab1de85d697b,admissions.creditcard,available,125.2,125.2,medium,low,10,cloudflare,,,29/09/2026 11:17
+ca7ba6f9-b37b-4e41-ba4c-fdeb3fc0372c,greensburg.creditcard,available,129.2,129.2,medium,low,10,spaceship,,,01/10/2026 12:09
 125a2632-a36f-4615-8c8e-4695d0d75036,loafer.creditcard,available,9.99,236.99,medium,low,6,name.com,,,14/08/2026 14:12
 dae4c86f-0a75-4bf3-8dcc-7f8e65ac89d5,spot.creditcard,available,144.99,144.99,high,medium,4,namesilo,,,29/09/2026 02:14
 a186f393-0e1f-4399-a0fd-32c10cfc7003,doom.creditcard,available,144.99,144.99,high,low,4,namesilo,,,24/09/2026 23:34
@@ -483,7 +517,9 @@ e865a5e0-573c-4585-8847-a09c3d540536,axial.creditcard,available,144.99,144.99,hi
 93a2b9e6-4b59-4efe-8a21-b229f4a8aed2,anabas.creditcard,available,156.98,168.98,medium,low,6,namecheap,,,19/09/2026 00:49
 a0f09415-4e39-4191-bc54-a3e3992a1dea,correct.creditcard,available,144.99,144.99,high,low,7,namesilo,,,24/09/2026 22:34
 17bde11a-3172-490f-a111-4a131d9fa77e,unattached.creditcard,available,9.99,236.99,medium,low,10,name.com,,,18/08/2026 14:48
+05a27dd1-a3fe-4e5d-a533-cde24456217b,expeditions.creditcard,available,129.2,129.2,medium,low,11,spaceship,,,01/10/2026 17:33
 7ad412b3-9096-413b-bfa9-41e8e21aca07,housewife.creditcard,available,156.98,168.98,medium,low,9,namecheap,,,29/09/2026 01:18
+76bcb6bf-5cee-4f5c-8057-75b139f28597,cooperstown.creditcard,available,5.66,129.25,medium,low,11,porkbun,,,01/10/2026 23:32
 22e2f9e8-5866-41d9-8a48-e5556ae73f81,tuscany.creditcard,available,129.2,129.2,high,low,7,spaceship,,,27/09/2026 16:08
 a57e0d65-ba81-48d3-b724-3c89314a5386,lucie.creditcard,available,129.2,129.2,medium,low,5,spaceship,,,28/09/2026 21:31
 77c693f6-5014-4a8c-befb-fc2af5ff0fb8,dysprosium.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,20/09/2026 23:28
@@ -494,6 +530,7 @@ e69fe354-cc23-4e7a-866e-21490faa69de,patented.creditcard,available,144.99,144.99
 3923ce4d-d16c-431a-ae6a-71d7250e23e7,germanium.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,20/09/2026 22:51
 184dd3b7-6880-4580-a52c-31acbc7ef700,magyar.creditcard,available,9.99,236.99,high,low,6,name.com,,,21/08/2026 15:41
 2856ff1d-870c-4c51-b430-53385649ce6a,bilges.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,23/09/2026 15:54
+a7689644-d58e-4272-af87-c3f3efcd3ab0,standardised.creditcard,available,129.2,129.2,high,low,12,spaceship,,,02/10/2026 03:58
 6f8946f0-40ef-45c0-95df-280964249751,catenulate.creditcard,available,9.99,236.99,medium,low,10,name.com,,,11/08/2026 21:32
 6558f14a-e91d-4a26-886b-42ed85f045c9,kali.creditcard,available,156.98,168.98,high,low,4,namecheap,,,22/09/2026 05:54
 a3517176-f48c-4bd4-a232-491eb29865b0,light.creditcard,available,9.99,236.99,high,low,5,name.com,,,
@@ -540,6 +577,7 @@ ca25fff7-a71a-4a6e-94ea-e45859b3e2f7,calcium.creditcard,available,144.99,144.99,
 427fdbce-a1b9-4344-9ac3-f7d0038b5870,dorsum.creditcard,available,9.99,236.99,medium,low,6,name.com,,,08/08/2026 05:12
 9c4fac19-55da-4cc0-80da-c3ac99d72566,backgrounds.creditcard,available,144.99,144.99,medium,low,11,namesilo,,,20/09/2026 22:12
 cab4b59a-6ae0-4d48-8d5c-18fc77bcb161,times.creditcard,available,129.2,129.2,high,low,5,spaceship,,,30/09/2026 13:17
+dc2976c9-242c-4ece-b38e-5cad34aa0fdf,sheba.creditcard,available,129.2,129.2,medium,low,5,spaceship,,,01/10/2026 10:07
 11ea74be-a6cc-4ccc-8ef9-8912a69bd673,ivo.creditcard,available,125.2,125.2,high,low,3,cloudflare,,,30/09/2026 04:54
 54f834ab-f393-4a1f-b819-7b520d4bb41a,inhalant.creditcard,available,9.99,236.99,high,low,8,name.com,,,22/08/2026 05:02
 53b9899c-b70a-44ff-9b7e-a75bc626a6c0,fetal.creditcard,available,9.99,236.99,high,low,5,name.com,,,18/08/2026 02:16
@@ -554,7 +592,7 @@ cab4b59a-6ae0-4d48-8d5c-18fc77bcb161,times.creditcard,available,129.2,129.2,high
 0cbdc25c-88e4-470b-b45f-567a6ae517b7,promises.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,27/09/2026 03:01
 a0b1f3f6-5cfc-42c4-ae16-74b360e3b8fd,smith.creditcard,available,125.2,125.2,high,medium,5,cloudflare,,,28/09/2026 18:16
 8feaf935-222f-4a57-a613-37a434f32282,authorised.creditcard,available,144.99,144.99,high,low,10,namesilo,,,22/09/2026 13:51
-3102a6fb-f8e0-4ac1-ac87-a4922fd021c1,corresponding.creditcard,available,9.99,,medium,low,13,name.com,,,
+3102a6fb-f8e0-4ac1-ac87-a4922fd021c1,corresponding.creditcard,available,129.2,129.2,medium,low,13,spaceship,,,01/10/2026 19:34
 3cf6249a-0613-4eef-bb64-d6e6d48c9846,berlioz.creditcard,available,156.98,168.98,medium,low,7,namecheap,,,23/09/2026 09:39
 68144620-e72e-45a3-80d6-4d043424363c,determinant.creditcard,available,125.2,125.2,high,low,11,cloudflare,,,30/09/2026 19:21
 837ad778-aa5b-4a97-b5dc-81321a11faf8,welcoming.creditcard,available,144.99,144.99,high,low,9,namesilo,,,13/09/2026 10:14
@@ -605,6 +643,7 @@ d5f0155d-f6f0-4344-8ce1-68aebbabb8fa,bittern.creditcard,available,144.99,144.99,
 f3b131db-2645-4c28-bf55-f30fa2f5d9b3,tokyo.creditcard,premium,242,242,high,low,5,namesilo,,,24/09/2026 12:18
 25fad075-c8c9-41e5-b260-8f533e8ebf1a,fai.creditcard,available,144.99,144.99,high,low,3,namesilo,,,29/09/2026 09:08
 378ad10b-9285-4d22-9d66-94861cf4e951,mislabeled.creditcard,available,9.99,236.99,medium,low,10,name.com,,,25/08/2026 01:21
+a82a0e04-592e-426c-bb9c-d370edfe4869,duluth.creditcard,available,5.57,133.52,medium,low,6,dynadot,,,01/10/2026 19:17
 08773097-fc47-465a-9d86-cfa4debbb145,spaghetti.creditcard,available,125.2,125.2,high,low,9,cloudflare,,,28/09/2026 15:23
 b9bbe63b-8b7e-4571-a0ce-f63f3272cc04,excavate.creditcard,available,9.99,236.99,high,low,8,name.com,,,21/08/2026 10:33
 430f11a1-664a-4e2f-bb42-6f17024ba981,general.creditcard,available,9.99,236.99,high,low,7,name.com,,,18/08/2026 21:23
@@ -626,8 +665,10 @@ cbf28d99-0041-4fe3-8d11-8551964a33e2,starlight.creditcard,available,156.98,168.9
 2fbe72e6-f296-4cb6-ba93-a2f20c6fa29e,individually.creditcard,available,125.2,125.2,medium,low,12,cloudflare,,,29/09/2026 16:19
 d667f43b-eda9-4df9-8a95-126a9fdfe089,forrad.creditcard,available,9.99,236.99,medium,low,6,name.com,,,18/08/2026 12:58
 82be1778-c3fa-4069-b391-c84133657e39,formicary.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,19/09/2026 13:26
+711c398e-286a-4e43-8501-90a5a3bc107b,niigata.creditcard,available,156.98,168.98,medium,low,7,namecheap,,,02/10/2026 00:28
 01af2a62-e182-425e-a90d-a7c495b67d8d,crescent.creditcard,available,9.99,236.99,high,low,8,name.com,,,13/08/2026 06:14
 4412a86a-9030-4728-b414-a67c6c22a01a,sturdy.creditcard,available,9.99,236.99,high,low,6,name.com,,,21/08/2026 00:56
+e72339c1-52a9-41af-b042-5499f54b0b2f,arad.creditcard,available,156.98,168.98,medium,low,4,namecheap,,,01/10/2026 23:00
 6dc053f6-349b-4006-bc92-870839cfad8d,griffiths.creditcard,available,156.98,168.98,medium,low,9,namecheap,,,26/09/2026 03:40
 5b31ca99-5712-4aac-8e7c-d125ae344789,slavelike.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,10/09/2026 10:32
 a3291eb2-1424-4603-8249-45b40f6054bd,shambles.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,16/09/2026 14:17
@@ -642,23 +683,25 @@ b7cfed2b-bcbf-46f7-bc90-1ef897216762,actinism.creditcard,available,156.98,168.98
 a17e5e2e-afaf-4793-b6af-50495ddf917a,huts.creditcard,available,144.99,144.99,medium,low,4,namesilo,,,30/09/2026 15:30
 5c85b197-7db5-4b18-8772-a6fb04cc4b57,welkin.creditcard,available,9.99,236.99,medium,low,6,name.com,,,16/08/2026 21:01
 9f2fa30b-fe19-4b06-84cf-d771872f817b,livermore.creditcard,available,5.57,133.52,medium,low,9,dynadot,,,28/09/2026 10:16
+666f7fb2-38b4-40c2-9ddd-f973145ecd36,juror.creditcard,available,129.2,129.2,high,low,5,spaceship,,,01/10/2026 20:11
 6757b497-b362-424f-a0dc-48540454514e,prohibited.creditcard,available,9.99,236.99,medium,low,10,name.com,,,08/08/2026 13:48
 4d450faf-078f-4cc7-9c09-ba3809626586,betimes.creditcard,available,9.99,236.99,medium,low,7,name.com,,,13/09/2026 23:59
 d400b984-5132-4167-93ff-7e17f840e30f,occupational.creditcard,available,144.99,144.99,medium,low,12,namesilo,,,29/09/2026 03:01
 db9b76f3-edb6-42f1-a2f9-989c512192ab,politician.creditcard,available,144.99,144.99,high,low,10,namesilo,,,28/09/2026 10:44
 dc66c907-5c2f-4a52-806e-5b549eb09052,sexed.creditcard,available,144.99,144.99,medium,low,5,namesilo,,,10/09/2026 05:13
 11b5b5d5-ae54-4443-b140-b23c545e6fde,fellow.creditcard,available,144.99,144.99,high,low,6,namesilo,,,22/09/2026 21:55
+d0787b0e-3aaa-43e5-aa88-5166723d13a2,dubrovnik.creditcard,available,129.2,129.2,medium,low,9,spaceship,,,01/10/2026 19:16
 673fcb63-5b76-4db1-ad64-499776ae665d,attach.creditcard,available,156.98,168.98,high,low,6,namecheap,,,23/09/2026 19:57
 d4cd81f5-d9cd-45f8-a1ab-bdf6600a8d05,animism.creditcard,available,9.99,236.99,medium,low,7,name.com,,,19/09/2026 09:19
 1a9f4d6f-5c7e-4e97-818a-49a72f0987b1,beeper.creditcard,available,144.99,144.99,high,low,6,namesilo,,,23/09/2026 01:31
 97ac3e2d-841d-44f7-9bcc-8b0c4234c475,ribbons.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,20/09/2026 07:05
 f0ae5ff1-b210-49d6-902a-54dbbc134dd1,semitropic.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,10/09/2026 03:36
-83f03a1a-f1b9-4da7-8f76-5caa32028082,effectively.creditcard,available,9.99,,medium,low,11,name.com,,,
+83f03a1a-f1b9-4da7-8f76-5caa32028082,effectively.creditcard,available,5.66,129.25,medium,low,11,porkbun,,,01/10/2026 04:53
 3f99f75d-afc7-4ad2-a3de-ad75b938b8c7,receiving.creditcard,available,125.2,125.2,high,low,9,cloudflare,,,27/09/2026 17:11
 1a114977-563c-4ed2-8603-e8ffee265677,prof.creditcard,available,129.2,129.2,high,low,4,spaceship,,,28/09/2026 20:15
 582e8b6b-07d7-4e47-8209-40978e765d98,reversible.creditcard,available,5.57,133.52,high,low,10,dynadot,,,27/09/2026 14:17
 9f494113-4970-439b-a593-6ffe8e2af86d,curious.creditcard,available,144.99,144.99,high,low,7,namesilo,,,24/09/2026 03:57
-b9972aab-b998-459c-a1e6-325c071b0d45,experienced.creditcard,available,9.99,,high,low,11,name.com,,,
+b9972aab-b998-459c-a1e6-325c071b0d45,experienced.creditcard,available,144.99,144.99,high,low,11,namesilo,,,01/10/2026 06:08
 9641c91f-18e9-48ec-a3d0-26d304e63da7,androgyne.creditcard,available,9.99,236.99,medium,low,9,name.com,,,17/08/2026 10:38
 41674cee-1909-46db-87fc-03f75ba71f21,famed.creditcard,available,9.99,236.99,high,low,5,name.com,,,11/08/2026 23:12
 e642e431-fc84-49f2-9247-1e536160672b,palaver.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,23/09/2026 23:26
@@ -675,6 +718,7 @@ a2782339-b5f1-4f9e-b53b-0afb3a458d8c,reaching.creditcard,available,144.99,144.99
 5750d0b0-100c-488d-82bf-ead2159a9c6a,probe.creditcard,available,129.2,129.2,high,low,5,spaceship,,,28/09/2026 10:09
 eaabb9ed-d957-497e-b60a-e2f01198e031,aneurism.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,19/09/2026 05:43
 72e6e181-c320-4fcc-ae31-e5ead814f380,drubbing.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,13/09/2026 07:58
+62701f31-9356-44c7-b8a6-5c9caef59022,cutters.creditcard,available,5.66,129.25,medium,low,7,porkbun,,,01/10/2026 18:41
 a2c05a98-6adf-4cc4-b7c4-b3e9381dc2ee,minimums.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,20/09/2026 08:36
 42f10517-5929-4648-a88a-bcb34d3df77c,musset.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,18/09/2026 06:29
 c99dfc79-9aaa-4d67-8957-f2079d914e46,topics.creditcard,available,156.98,168.98,high,low,6,namecheap,,,30/09/2026 14:57
@@ -722,6 +766,7 @@ b15f110b-fb8f-4a85-99ae-16201cf100d1,arbiter.creditcard,available,144.99,144.99,
 a20772d4-8c0f-491d-8003-7d59f0225d8c,connexion.creditcard,available,125.2,125.2,high,low,9,cloudflare,,,29/09/2026 18:26
 dc28b53f-4e17-45f6-8f08-0897a76da6ef,bds.creditcard,available,156.98,168.98,high,low,3,namecheap,,,30/09/2026 05:27
 75b655ef-cbfe-4a03-973c-e8a898a01e9d,spunky.creditcard,available,9.99,236.99,high,low,6,name.com,,,18/08/2026 00:49
+42e9519c-fe1a-4696-85fe-87d6533a7c0b,misuse.creditcard,available,129.2,129.2,medium,low,6,spaceship,,,01/10/2026 20:33
 083e5d41-50c2-42c9-9ec1-bd74e0d419d0,pablo.creditcard,available,5.57,133.52,high,low,5,dynadot,,,28/09/2026 11:58
 1a94b4b2-6ef3-469c-b3b3-6d86611c8d64,bestial.creditcard,available,9.99,236.99,medium,low,7,name.com,,,09/08/2026 17:57
 ffbe7db7-937d-4998-b3ea-8a7321f70668,equanimous.creditcard,available,9.99,236.99,medium,low,10,name.com,,,17/08/2026 11:37
@@ -744,7 +789,7 @@ f127458b-be98-49df-ac38-f98cf7101d39,intentionally.creditcard,available,129.2,12
 fa9244c8-bfcb-4d46-b648-0148c3174c54,arrived.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,17/09/2026 14:03
 346ecced-e32b-40b0-91cf-2a424275430b,neoplastic.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,03/09/2026 15:29
 1c2e93cc-e042-40e2-a035-028e1805cd42,agreements.creditcard,available,144.99,144.99,medium,low,10,namesilo,,,17/09/2026 03:09
-6d7c592b-658f-4e27-b653-4ecf28884469,nickelodeon.creditcard,available,9.99,,high,low,11,name.com,,,
+6d7c592b-658f-4e27-b653-4ecf28884469,nickelodeon.creditcard,available,144.99,144.99,high,low,11,namesilo,,,01/10/2026 22:22
 043e1013-c301-4755-a765-ae9bad7e29a5,ballpark.creditcard,available,144.99,144.99,high,low,8,namesilo,,,19/09/2026 22:25
 c802274c-3dfa-41c7-8c78-4dc0bc6022be,upright.creditcard,available,9.99,236.99,high,low,7,name.com,,,17/08/2026 12:05
 eb9065d8-6251-4f2b-8541-e8c37044fbb8,scares.creditcard,available,129.2,129.2,low,low,6,spaceship,,,30/09/2026 07:09
@@ -760,12 +805,13 @@ d3c00a87-d341-411e-afab-8c1f50208426,feud.creditcard,available,5.66,129.25,high,
 eefc67db-384b-46f5-8464-f5ffbfe5183e,cyrillic.creditcard,available,9.99,236.99,medium,low,8,name.com,,,13/08/2026 14:33
 667fc339-e524-4ea3-a516-3b29ab993e90,exilic.creditcard,available,9.99,236.99,medium,low,6,name.com,,,17/08/2026 17:19
 a9fde59d-431c-42f4-94a0-8fa45c56ca4c,cheater.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,23/09/2026 02:30
+9593a6a4-6160-4acf-a0c2-534b33f1fd8a,andrus.creditcard,available,125.2,125.2,medium,low,6,cloudflare,,,02/10/2026 01:31
 3bfba32d-d245-47ac-8818-7b9827c22040,treaty.creditcard,available,129.2,129.2,high,low,6,spaceship,,,28/09/2026 10:39
 f2271fe7-fa1e-4e39-a748-9e867986ee48,lovers.creditcard,available,156.98,168.98,high,low,6,namecheap,,,27/09/2026 02:55
 2add94ef-763e-4572-bcdf-937dd5e9dd75,trickster.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,23/09/2026 02:57
 b5a3fdd1-469a-47c0-ab2d-8228695a604d,upstart.creditcard,available,144.99,144.99,high,low,7,namesilo,,,25/09/2026 23:17
 23402159-6322-48d5-bea4-063892c59d8d,kepler.creditcard,available,125.2,125.2,medium,low,6,cloudflare,,,29/09/2026 01:24
-ac99c7c2-007d-4027-ac86-ffb07be04463,carribean.creditcard,available,9.99,,high,low,9,name.com,,,
+ac99c7c2-007d-4027-ac86-ffb07be04463,carribean.creditcard,available,144.99,144.99,high,low,9,namesilo,,,01/10/2026 23:31
 11765619-9671-4482-b964-c7f62129d0b6,helen.creditcard,available,144.99,144.99,high,low,5,namesilo,,,25/09/2026 07:10
 79bff771-093d-4c07-a9a0-8fd4c2297536,schuyler.creditcard,available,5.57,133.52,medium,low,8,dynadot,,,28/09/2026 04:05
 a5b5bbc8-8296-4aa5-a9d7-d6154f351e54,bloodshed.creditcard,available,125.2,125.2,medium,low,9,cloudflare,,,30/09/2026 08:05
@@ -839,8 +885,10 @@ e8d772e2-8b0f-4912-a71f-d4f5a375ebfd,modified.creditcard,available,9.99,236.99,h
 c5633b70-2ca0-4369-8076-375222cd6704,excite.creditcard,available,144.99,144.99,high,low,6,namesilo,,,30/09/2026 02:49
 e0c1e08d-3dee-43b1-b1fc-49f56d9238a9,gardiner.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,25/09/2026 06:17
 fb9d6788-e9f5-452b-8fcc-23a5afa81a50,banks.creditcard,resell,,,high,low,5,"Sav.com, LLC",27/04/2026 10:43,27/04/2027 10:43,26/09/2026 04:15
+92ee7455-373d-4b50-80f6-25ed02c5d3c0,caddy.creditcard,available,129.2,129.2,high,low,5,spaceship,,,02/10/2026 04:12
 11ed32d3-3d93-4710-b4f4-8cbf62758ad5,resistance.creditcard,available,144.99,144.99,high,low,10,namesilo,,,12/09/2026 07:26
 2c8e16d0-842c-497b-aae6-7ac42a48a2c3,trusty.creditcard,available,144.99,144.99,high,low,6,namesilo,,,11/09/2026 20:49
+dedf7757-b1ef-411e-b211-0ffcefe249a4,ger.creditcard,available,129.2,129.2,high,low,3,spaceship,,,01/10/2026 22:45
 357ca993-a8f9-42b8-9753-63adb3434c18,success.creditcard,available,125.2,125.2,high,low,7,cloudflare,,,28/09/2026 17:50
 c7649d9a-08e9-4ba3-a2e7-9e44c84d3115,cherimoya.creditcard,available,156.98,168.98,medium,low,9,namecheap,,,19/09/2026 10:32
 69a60de6-f31e-4d42-ae34-0e615cde93c4,observer.creditcard,available,144.99,144.99,high,low,8,namesilo,,,27/09/2026 03:30
@@ -869,6 +917,7 @@ bffecac4-8a4c-4a02-903f-07f0f92044be,bawling.creditcard,available,144.99,144.99,
 658f0f92-6806-4875-843b-f53893a844ba,maoist.creditcard,available,9.99,236.99,medium,low,6,name.com,,,24/08/2026 15:38
 61fe6622-d1e4-4d5f-9c23-f94e28a45479,twinned.creditcard,available,9.99,236.99,high,low,7,name.com,,,24/08/2026 16:58
 cdf6e2e5-28de-42f2-91ea-51c843dacc6b,epochs.creditcard,available,144.99,144.99,low,low,6,namesilo,,,30/09/2026 15:49
+a5ab11d4-029a-4369-8756-eafb13555c85,crm.creditcard,available,5.66,129.25,high,medium,3,porkbun,,,01/10/2026 05:32
 4c9ab745-7be7-40b3-b7ec-210a4d802a82,coursework.creditcard,available,129.2,129.2,high,low,10,spaceship,,,30/09/2026 16:49
 f024a430-4132-4a8d-a23f-fd712faf2343,lenny.creditcard,available,156.98,168.98,medium,low,5,namecheap,,,28/09/2026 18:21
 b9847790-32ff-43e1-b642-de082f668c45,eccentric.creditcard,available,9.99,236.99,high,low,9,name.com,,,10/08/2026 09:50
@@ -906,6 +955,7 @@ ce78166e-25e1-4dc0-b990-9789c4c78797,elmo.creditcard,available,129.2,129.2,high,
 d4d68294-f718-4c0c-9226-886880eb6563,aca.creditcard,available,129.2,129.2,high,low,3,spaceship,,,29/09/2026 09:04
 baece072-4148-4eaf-ab09-094f25714805,burnable.creditcard,available,9.99,236.99,medium,low,8,name.com,,,11/08/2026 10:44
 0e7d76f8-0e1e-4c6e-b8f6-5aaba0fc8375,hammy.creditcard,available,9.99,236.99,medium,low,5,name.com,,,20/08/2026 23:05
+f05e2853-9e75-4071-a4da-a622031828a7,faked.creditcard,available,144.99,144.99,low,low,5,namesilo,,,02/10/2026 02:18
 7ea3acae-59b4-45da-811c-4f73bd12135f,techy.creditcard,available,9.99,236.99,medium,low,5,name.com,,,22/08/2026 10:32
 14e7e959-e323-4161-8a32-69a390dcfb21,fathers.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,27/09/2026 09:58
 c06c550f-5998-4115-8284-d81b0e612da2,mersey.creditcard,available,144.99,144.99,medium,low,6,namesilo,,,30/09/2026 13:10
@@ -947,55 +997,5 @@ c049408b-7bd9-4250-bd78-e8d161cf62cf,arb.creditcard,available,156.98,168.98,high
 ff13adff-ced9-47f8-8ce7-11de7e909e0e,returning.creditcard,available,129.2,129.2,high,low,9,spaceship,,,27/09/2026 13:35
 bea49925-aeec-49c9-b161-b8426cca2b30,moo.creditcard,available,9.99,236.99,high,low,3,name.com,,,24/08/2026 10:19
 c7af6749-57e8-453e-a9d3-82a90e648527,squeezable.creditcard,available,144.99,144.99,high,low,10,namesilo,,,10/09/2026 17:41
+c1af0302-8d73-4f06-af1b-6c1db3b6c790,miki.creditcard,available,144.99,144.99,high,low,4,namesilo,,,02/10/2026 04:00
 edb757c6-78d6-4bc7-ae2e-816d33ef55f3,documentary.creditcard,available,125.2,125.2,high,low,11,cloudflare,,,28/09/2026 04:30
-713fb536-ad2d-4073-a4b5-167dfff45d4a,enchanting.creditcard,available,9.99,236.99,medium,low,10,name.com,,,09/08/2026 18:21
-549c1fa5-fba3-46ae-885f-3dee34e9da1d,anchor.creditcard,available,144.99,144.99,high,medium,6,namesilo,,,19/09/2026 03:39
-d55a404f-ee5e-4f14-be1d-4d77a5b541b9,prism.creditcard,available,5.57,133.52,high,medium,5,dynadot,,,30/09/2026 18:13
-99029faa-16b3-4c1a-a20f-9d7c159ebd9c,accidents.creditcard,available,129.2,129.2,medium,low,9,spaceship,,,28/09/2026 05:03
-4bf4dd56-4850-4e01-ba49-404f0bd5c734,floating.creditcard,available,9.99,236.99,high,low,8,name.com,,,14/08/2026 19:14
-7638182d-9780-4aba-9680-1a930f2648ea,orchid.creditcard,available,129.2,129.2,high,low,6,spaceship,,,28/09/2026 20:03
-d2b3fc50-dcb4-4824-bd74-d929983986be,pentagon.creditcard,available,129.2,129.2,high,low,8,spaceship,,,28/09/2026 06:34
-c4b38eb7-e392-4ae2-abf5-0974a5fc30fa,augustus.creditcard,available,156.98,168.98,high,low,8,namecheap,,,21/09/2026 04:02
-15b7b273-e3c4-4c69-a704-77fdb604d911,tahiti.creditcard,available,129.2,129.2,high,low,6,spaceship,,,29/09/2026 20:28
-92c5f8a6-b241-42ed-ab7f-aa376f23471b,tablet.creditcard,available,5.57,133.52,high,low,6,dynadot,,,28/09/2026 20:05
-dc089d16-6447-42e6-ab22-6170dbb10c17,adaptor.creditcard,available,144.99,144.99,high,low,7,namesilo,,,17/09/2026 06:32
-2c3a6368-b748-471b-9c08-1e7580842b3b,feeds.creditcard,available,144.99,144.99,medium,low,5,namesilo,,,28/09/2026 17:27
-555834b9-aedf-4255-94bb-3d63d6664077,flor.creditcard,available,9.99,,high,low,4,name.com,,,
-f3a4b07e-ccb7-4987-9150-a4b732def21c,venushair.creditcard,available,144.99,144.99,medium,low,9,namesilo,,,17/09/2026 08:07
-5df5b82d-dac1-4b12-807a-7dd1984a0abc,ardea.creditcard,available,144.99,144.99,medium,low,5,namesilo,,,20/09/2026 03:04
-33792ed7-b23f-4395-a921-3d7daaaa1b9b,consul.creditcard,available,156.98,168.98,high,low,6,namecheap,,,24/09/2026 17:37
-11e6ecc8-8f51-46c0-b897-09977ff609ff,narrow.creditcard,available,144.99,144.99,high,low,6,namesilo,,,03/09/2026 13:22
-c8069137-7128-4c4f-abcb-95a5cdc47a5e,beehive.creditcard,available,144.99,144.99,high,low,7,namesilo,,,23/09/2026 01:16
-8b300768-9a04-4050-922c-7cb10ee188fb,dance.creditcard,available,156.98,168.98,high,low,5,namecheap,,,24/09/2026 20:57
-cd22dd51-d1ae-4ff1-897a-55e9ea1969c1,pathetic.creditcard,available,9.99,236.99,medium,low,8,name.com,,,20/08/2026 23:50
-c1daa54f-fad3-4438-ae15-babf93dc3177,thought.creditcard,available,156.98,168.98,high,low,7,namecheap,,,28/09/2026 09:13
-f24cc87b-7638-4fbc-8563-cfac949ec73c,homosexuals.creditcard,available,125.2,125.2,low,low,11,cloudflare,,,01/10/2026 00:33
-0851009f-302b-4185-8cca-62bc318bfe95,missile.creditcard,available,144.99,144.99,high,low,7,namesilo,,,27/09/2026 07:17
-b71a3e0a-b20a-437b-8d57-e7a7bb85d004,reebok.creditcard,available,9.99,,high,low,6,name.com,,,
-607efa07-09a8-457e-aad5-af5b3b92ed8f,papal.creditcard,available,9.99,236.99,medium,low,5,name.com,,,06/08/2026 04:09
-cd3076a4-d39c-4289-91dd-322242e6c5e5,astronium.creditcard,available,156.98,168.98,medium,low,9,namecheap,,,20/09/2026 18:03
-1280f4e0-4f32-4904-bb14-b5d4aa0e468a,relation.creditcard,available,144.99,144.99,high,low,8,namesilo,,,27/09/2026 11:47
-e3aa1a27-8e54-4465-9c29-8feb13693e14,generously.creditcard,available,9.99,236.99,high,low,10,name.com,,,14/09/2026 21:14
-b3b90c93-1bc7-4d5f-9940-1754ae191b77,quail.creditcard,available,144.99,144.99,high,low,5,namesilo,,,01/10/2026 02:11
-245fe6f9-e27a-4f9b-9cdd-69be9b088817,cheerleader.creditcard,available,129.2,129.2,high,low,11,spaceship,,,29/09/2026 21:07
-ce39be2c-6805-4258-91b2-e6bab0fdb13a,longhand.creditcard,available,9.99,236.99,high,low,8,name.com,,,13/08/2026 11:38
-a0e610b5-d7dd-4858-96b3-35553e2ef466,importantly.creditcard,available,9.99,,medium,low,11,name.com,,,
-8c2c7e9e-278d-468d-adcb-74d808adf2aa,draws.creditcard,available,9.99,236.99,high,low,5,name.com,,,
-d7cbf093-8f2d-4106-b64a-0422704839c7,upwardly.creditcard,available,144.99,144.99,medium,low,8,namesilo,,,12/09/2026 22:57
-2cf93330-71f8-4ce7-9b6b-b8473ee60b17,astarte.creditcard,available,144.99,144.99,medium,low,7,namesilo,,,20/09/2026 14:01
-6e37e5ad-833b-41e5-bb98-f68da1c88bda,beethoven.creditcard,available,156.98,168.98,high,low,9,namecheap,,,23/09/2026 01:53
-14155c6e-ec6a-4ec3-b046-e7e3e967e9a9,brilliant.creditcard,available,144.99,144.99,high,low,9,namesilo,,,23/09/2026 02:12
-05cb076f-8682-4a09-b579-fdfe86ccd5c6,variations.creditcard,available,156.98,168.98,medium,low,10,namecheap,,,18/09/2026 20:13
-ea920adf-192b-495f-8671-f6a63a13fb8f,millenary.creditcard,available,9.99,236.99,medium,low,9,name.com,,,24/08/2026 23:13
-f1afe3fa-cc21-4696-b1b1-46e19b5d885d,sports.creditcard,available,9.99,,high,medium,6,name.com,,,
-d2e2e81b-ecb9-4a0d-a825-6b487d16c34a,beluga.creditcard,available,156.98,168.98,high,low,6,namecheap,,,17/09/2026 01:49
-471f2979-d2d0-4d21-839f-c2add58c1e94,avesta.creditcard,available,156.98,168.98,medium,low,6,namecheap,,,21/09/2026 09:22
-b947538a-5e97-4624-91b4-02cfcd3dfdb3,trustees.creditcard,available,129.2,129.2,medium,low,8,spaceship,,,29/09/2026 23:08
-6ca4cd7a-5aef-4202-9b82-c843246941bf,che.creditcard,available,144.99,144.99,high,low,3,namesilo,,,29/09/2026 02:51
-46abea36-ffe5-4470-8132-860cd1608361,staring.creditcard,available,156.98,168.98,high,low,7,namecheap,,,21/09/2026 22:19
-3b186dd6-89db-4336-9491-81cfe82e5826,vesalius.creditcard,available,156.98,168.98,medium,low,8,namecheap,,,19/09/2026 04:28
-dadd1c1c-f37e-4ff3-b75d-bb69a2c942bf,brazen.creditcard,available,9.99,236.99,high,low,6,name.com,,,11/08/2026 02:54
-63fc2333-30c8-48c6-b875-73f4f0ef31b5,sultan.creditcard,available,129.2,129.2,high,low,6,spaceship,,,29/09/2026 12:57
-1b097969-d4a8-49e3-95a4-6bd604cbc20c,understand.creditcard,available,156.98,168.98,high,low,10,namecheap,,,30/09/2026 18:59
-126a4aee-93cb-4916-9f6b-fb5e5074dc9b,rosemary.creditcard,available,129.2,129.2,high,low,8,spaceship,,,28/09/2026 10:51
-3a5ad6a4-f4f0-420e-ab13-db78008edcc9,blasted.creditcard,available,9.99,236.99,medium,low,7,name.com,,,10/08/2026 12:35
